@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+This is an exercise for github
